@@ -3,7 +3,7 @@
 ## Overview
 Brief about project goals.
 
-## Team Roles
+##Team Roles
 - Backend Developer: Handles API and logic.
 - Database Admin: Designs and maintains DB.
 - DevOps Engineer: Handles CI/CD pipelines.
